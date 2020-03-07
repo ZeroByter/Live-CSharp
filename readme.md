@@ -2,6 +2,8 @@
 
 Live C# is a small, lite C# editor/compiler meant to allow quick and easy testing of small patches of code.
 
+![The program](https://i.imgur.com/yIapKxb.png)
+
 I use this whenever I work on a project and I want to see how a particular patch of code works independently from all the other code without too much hassle.
 
 This essentially does the exact same thing as 'repl.it', but only this is local, so not dependent on web access + not having to wait for the website to load.
